@@ -1,0 +1,15 @@
+{
+    "auto_indent": true,
+    "detect_indentation": false,
+    "default_line_ending": "unix",
+    "draw_white_space": "all",
+    "ensure_newline_at_eof_on_save": true,
+    "highlight_line": true,
+    "tab_size": 4,
+    "rulers": [80],
+    "show_line_endings": true,
+    "smart_indent": true,
+    "translate_tabs_to_spaces": true,
+    "trim_trailing_white_space_on_save": true,
+    "word_wrap": true
+}
